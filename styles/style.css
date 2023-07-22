@@ -156,3 +156,21 @@ body {
     color: var(--cinza-secundario);
     font-size: 14px;
 }
+
+
+/* tentativa de Criar um site mais resposivo dia 22/07/2023 */
+
+@media (max-width: 768px) {
+    body, .dispositivos_lista {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .container {
+        width: auto;
+    }
+
+    .dispositivos_titulo{
+        font-size: 40px;
+    }
+}
