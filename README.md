@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de site de anúncio Alura Plus.
 
 ![image](./assets/aaa.png)
 
